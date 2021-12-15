@@ -1,0 +1,115 @@
+body {
+    background-color: #ffffff; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.common {
+    /*background-color: #cccccc;
+    border: solid 2px white;*/
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+    color: black;
+    background-image: url('../images/aboutme.jpg');
+    
+}
+
+
+
+.mainbody {
+    top: 114px;
+    bottom: 32px;
+    left: 5px;
+    right: 5px;
+    padding-right: 5px;
+
+    
+    
+}
+
+
+.footer {
+    bottom: 5px;
+    height: 20px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    padding: 5px;
+    background-color: lightgrey;
+}
+
+.subheader {
+    float: right;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #4d4c4c;
+    background-color: lightgrey;
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: darkblue144, 160);
+}
+
+
+.intro {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.homebg {
+    background-image: url('images/background.jpg');
+    background-position: bottom right;
+}
+
+.normal{
+    color: black;
+}
+
+
+
+.box2 {
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: black;
+    color: white;
+  
+    
+}
+
